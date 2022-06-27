@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ body {
+    background:  url(img/dev-front-end.jpeg) no-repeat;
+    background-size: cover;
+ }
+
+header {
+    background-color: #1e1e1e;
+    height: 88px;
+}
+
+p {
+    text-align:end;
+    color: #fff;
+    position: relative;
+    right:5px;
+    top:45px;
+}
+h1 {
+    padding-left: 55px;
+}
+.item {
+    background-color: blue;
+    width: 250px;
+    margin: 2px;
+    text-align: center;
+     font-weight: 800;
+     color: #fff;
+  cursor: pointer;
+  
+}
+
+.item:hover {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    border-top-left-radius: 55px;
+
+  
+   
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
