@@ -14,6 +14,11 @@ header {
     height: 88px;
 }
 
+.txt {
+    position: relative;
+    top:12px;
+}
+
 p {
     text-align:end;
     color: #fff;
